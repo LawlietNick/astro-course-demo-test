@@ -3,7 +3,8 @@ author: jim-halpert
 categories: ["career advice"]
 date: 08/10/2021
 featured: false
-image: ./images/guitarist.jpg
+cover: ./images/guitarist.jpg
+coverAlt: Image for Guitar solos are still awesome
 title: Guitar solos are still awesome
 ---
 

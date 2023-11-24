@@ -3,7 +3,8 @@ author: michael-scott
 categories: ["studio tips"]
 date: 08/10/2021
 featured: false
-image: ./images/drums.jpg
+cover: ./images/drums.jpg
+coverAlt: Image for Tune your snare drum
 title: Tune your snare drum
 ---
 

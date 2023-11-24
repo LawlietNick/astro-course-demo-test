@@ -3,7 +3,8 @@ author: jim-halpert
 categories: ["insights"]
 date: 08/10/2021
 featured: false
-image: ./images/concert.jpg
+cover: ./images/concert.jpg
+coverAlt: Image for Live music is crucial
 title: Live music is crucial
 ---
 

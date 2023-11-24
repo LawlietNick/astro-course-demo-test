@@ -3,7 +3,8 @@ author: pam-beesely
 categories: ["career advice"]
 date: 08/10/2021
 featured: false
-image: ./images/record.jpg
+cover: ./images/record.jpg
+coverAlt: Image for Creating a successful music brand
 title: Creating a successful music brand
 ---
 

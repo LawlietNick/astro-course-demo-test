@@ -3,7 +3,8 @@ author: dwight-schrute
 categories: ["studio tips"]
 date: 08/10/2021
 featured: false
-image: ./images/photoshoot.jpg
+cover: ./images/photoshoot.jpg
+coverAlt: Image for Behind-the-scenes with our artists
 title: Behind-the-scenes with our artists
 ---
 

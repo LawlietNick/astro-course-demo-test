@@ -3,7 +3,8 @@ author: dwight-schrute
 categories: ["studio tips"]
 date: 08/10/2021
 featured: false
-image: ./images/studio.jpg
+cover: ./images/studio.jpg
+coverAlt: Image for Making a home studio 
 title: Making a home studio
 ---
 

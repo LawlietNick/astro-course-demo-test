@@ -3,7 +3,8 @@ author: michael-scott
 categories: ["latest", "insights"]
 date: 08/10/2021
 featured: true
-image: ./images/producer.jpg
+cover: ./images/producer.jpg
+coverAlt: Cover for The art of music production
 title: The art of music production
 ---
 
