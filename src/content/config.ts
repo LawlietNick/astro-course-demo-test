@@ -22,10 +22,10 @@ const postsCollection = defineCollection({
                 message: "Cover image must be at least 1080 pixels wide!",
               }),
             coverAlt: z.string(),
-            title: z.string(),
-            description: z.string(),
+            title: z.string()
         }),
 })
+
 
 export const collections = {
     authors: authorsCollection,

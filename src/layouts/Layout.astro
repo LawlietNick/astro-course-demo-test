@@ -1,13 +1,13 @@
 ---
+import "@fontsource/cabin"
 
-import Header from '../components/Header.astro';
-import Footer from '../components/Footer.astro'
-import "@fontsource/cabin";
+import Header from "../components/Header.astro"
+import Footer from "../components/Footer.astro"
 
-interface Props {
-	title: string;
-	description: string;
-	image?: string;
+export interface Props {
+    title?: string
+    description?: string
+    image?: string
 }
 
 const { 
@@ -42,7 +42,7 @@ const {
 		<meta property="twitter:card" content={description}>
 		<meta property="twitter:image" content={image}>
 		<meta property="twitter:image:alt" content={description}>
-
+		
 	</head>
 	<body class="min-h-screen grid grid-rows-[auto,1fr,auto]">
 		<Header />

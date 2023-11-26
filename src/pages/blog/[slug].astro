@@ -22,7 +22,6 @@ export const getStaticPaths = async () => {
     return paths;
 }
 
-
 type Props = {
     post: CollectionEntry<"posts">
 }
@@ -33,7 +32,6 @@ const coverImageSource = (await getImage({src: post.data.cover})).src
 ---
 <Layout 
     title={post.data.title}
-    description={post.data.description}
     image={coverImageSource}
 >
     <Main>
