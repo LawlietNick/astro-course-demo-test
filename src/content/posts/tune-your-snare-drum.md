@@ -6,6 +6,7 @@ featured: false
 cover: ./images/drums.jpg
 coverAlt: Image for Tune your snare drum
 title: Tune your snare drum
+description: A acerbic aftertaste aged and aroma aromatic as barista beans black blue body breve caffeine.
 ---
 
 Collaboration is a key component of many creative endeavors, and music production is no exception. In fact, collaboration can be essential to the success of a music project, as it allows for the pooling of diverse talents and perspectives to create something truly unique and compelling.

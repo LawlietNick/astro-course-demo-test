@@ -6,6 +6,7 @@ featured: false
 cover: ./images/photoshoot.jpg
 coverAlt: Image for Behind-the-scenes with our artists
 title: Behind-the-scenes with our artists
+description: But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and
 ---
 
 Collaboration is a key component of many creative endeavors, and music production is no exception. In fact, collaboration can be essential to the success of a music project, as it allows for the pooling of diverse talents and perspectives to create something truly unique and compelling.

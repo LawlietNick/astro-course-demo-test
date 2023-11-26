@@ -6,6 +6,7 @@ featured: false
 cover: ./images/guitarist.jpg
 coverAlt: Image for Guitar solos are still awesome
 title: Guitar solos are still awesome
+description: And i will strike down upon thee with great vengeance and furious anger those who would attempt to poison and destroy my brothers
 ---
 
 Collaboration is a key component of many creative endeavors, and music production is no exception. In fact, collaboration can be essential to the success of a music project, as it allows for the pooling of diverse talents and perspectives to create something truly unique and compelling.

@@ -6,6 +6,7 @@ featured: false
 cover: ./images/speaker.jpg
 coverAlt: Cover for The importance of audio quality
 title: The importance of audio quality
+description: A acerbic affogato aftertaste aged americano and arabica aroma aromatic as at au bar barista beans black blue body breve
 ---
 
 Collaboration is a key component of many creative endeavors, and music production is no exception. In fact, collaboration can be essential to the success of a music project, as it allows for the pooling of diverse talents and perspectives to create something truly unique and compelling.

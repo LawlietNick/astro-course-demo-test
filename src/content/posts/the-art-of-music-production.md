@@ -6,6 +6,7 @@ featured: true
 cover: ./images/producer.jpg
 coverAlt: Cover for The art of music production
 title: The art of music production
+description: A acerbic affogato aftertaste aged americano and arabica aroma as at beans black blue body brewed caffeine. 
 ---
 
 Collaboration is a key component of many creative endeavors, and music production is no exception. In fact, collaboration can be essential to the success of a music project, as it allows for the pooling of diverse talents and perspectives to create something truly unique and compelling.

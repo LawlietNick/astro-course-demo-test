@@ -6,6 +6,7 @@ featured: false
 cover: ./images/band.jpg
 coverAlt: Image for Collaboration in music production
 title: Collaboration in music production
+description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 ---
 
 Collaboration is a key component of many creative endeavors, and music production is no exception. In fact, collaboration can be essential to the success of a music project, as it allows for the pooling of diverse talents and perspectives to create something truly unique and compelling.

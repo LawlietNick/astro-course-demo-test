@@ -6,6 +6,7 @@ featured: false
 cover: ./images/concert.jpg
 coverAlt: Image for Live music is crucial
 title: Live music is crucial
+description: And i will strike down upon thee with great vengeance and furious anger those who would attempt to poison and destroy my brothers.
 ---
 
 Collaboration is a key component of many creative endeavors, and music production is no exception. In fact, collaboration can be essential to the success of a music project, as it allows for the pooling of diverse talents and perspectives to create something truly unique and compelling.

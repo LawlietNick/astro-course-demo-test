@@ -6,6 +6,7 @@ featured: false
 cover: ./images/record.jpg
 coverAlt: Image for Creating a successful music brand
 title: Creating a successful music brand
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
 ---
 
 Collaboration is a key component of many creative endeavors, and music production is no exception. In fact, collaboration can be essential to the success of a music project, as it allows for the pooling of diverse talents and perspectives to create something truly unique and compelling.

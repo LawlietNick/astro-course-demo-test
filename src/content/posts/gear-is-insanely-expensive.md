@@ -6,6 +6,7 @@ featured: false
 cover: ./images/gear.jpg
 coverAlt: Image for Gear is insanely expensive
 title: Gear is insanely expensive
+description: After the avalanche, it took us a week to climb out. and most times they're friends, like you and me! i should've known way back when
 ---
 
 Collaboration is a key component of many creative endeavors, and music production is no exception. In fact, collaboration can be essential to the success of a music project, as it allows for the pooling of diverse talents and perspectives to create something truly unique and compelling.
