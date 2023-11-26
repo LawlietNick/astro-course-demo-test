@@ -1,11 +1,13 @@
 ---
-import { GetStaticPathsOptions, Page } from "astro";
+import { type GetStaticPathsOptions, type Page } from "astro";
+import type { CollectionEntry } from "astro:content";
 import { getCollection } from "astro:content";
 import Layout from '../../layouts/Layout.astro';
 import PostList from '../../components/PostList.astro';
 import Main from "../../components/Main.astro";
 import H1 from "../../components/H1.astro";
 import Pagination from "../../components/Pagination.astro";
+import CategoryList from "../../components/CategoryList.astro";
 
 export async function getStaticPaths( { paginate }: GetStaticPathsOptions ){
     const allPosts = await getCollection("posts");
@@ -34,6 +36,8 @@ const categories = Array.from(new Set(allCategories));
             Join the community and learn from Music Producers and Enthuasists
         </p> 
        
+        <CategoryList title="Tags" categories={categories}/>
+
         <div class="mb-12">
             <Pagination prevURL={page.url.prev} nextURL={page.url.next} />
         </div>
