@@ -2,12 +2,14 @@
 import type { CollectionEntry } from "astro:content";
 import { Image } from "astro:assets";
 
-
 type Props = {
     post: CollectionEntry<"posts">
 }
 
-const {post} = Astro.props
+const {post} = Astro.props;
+
+const bodyContentExcerpt = post.body.slice(0,200);
+
 ---
 
 <article>
@@ -23,8 +25,8 @@ const {post} = Astro.props
     <a href={`/blog/${post.slug}`} class="text-4xl tex-zinc-900 mb-4 font-semibold inline-block">
         <h2>{post.data.title}</h2>
     </a>
-    <p class="text-zinc-500 text-2xl mb-9 line-clamp-2">
-        {post.body}
+    <p class="text-zinc-500 text-2xl mb-9 line-clamp-3">
+        {bodyContentExcerpt}
     </p>
     
 </article>
